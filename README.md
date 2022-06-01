@@ -18,6 +18,6 @@
 - Java 11  (JDK)
 -  Node
 -  Yarn
--  Ex0o
-    -Downloar
-     -	Criação de API   
+-  Expo
+-   Uso do React Native
+     
