@@ -2,6 +2,10 @@
 #  Introdução ao React Native
 
 
+<div align = "center">
+<img src="https://user-images.githubusercontent.com/64944984/171969202-78e1c59f-a6e5-4f98-a43d-9d145b1e6b27.jpeg" widht="400" height="600"/>
+</div>
+
 
 # Conteudo
   - Conhecendo  React Native
